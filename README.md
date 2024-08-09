@@ -1,4 +1,3 @@
-![apacionado](https://github.com/user-attachments/assets/4ef236f2-f275-4303-a9a2-925e028f5d7a)
 <h1>About Me</h1>
 <h2>Personal Information</h2>
  <ul>

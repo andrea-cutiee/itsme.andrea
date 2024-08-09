@@ -1,15 +1,15 @@
 <h1>About Me</h1>
 <h2>Personal Information</h2>
  <ul>
-  <li><strong>Name:</strong>Andrea Jane Apacionado</li>
-  <li><strong>Birthday:</strong>January 22,2006</li>
-  <li><strong>Age:</strong>18</li>
-  <li><strong>Address:</strong>0430 A. Mabini St. Dela paz, Biñan City, Laguna</li>
-  <li><strong>Contact:</strong>09464798850</li>
-  <li><strong>Religion:</strong>Iglesia Ni Cristo</li>
+  <li><strong>Name:</strong> Andrea Jane Apacionado</li>
+  <li><strong>Birthday:</strong> January 22,2006</li>
+  <li><strong>Age:</strong> 18</li>
+  <li><strong>Address:</strong> 0430 A. Mabini St. Dela paz, Biñan City, Laguna</li>
+  <li><strong>Contact:</strong> 09464798850</li>
+  <li><strong>Religion:</strong> Iglesia Ni Cristo</li>
  </ul>
 <ul>   
-    <li><strong>Email:</strong> <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=andreajaneapacionado39@gmail.com&tf=1">andreajaneapacionado39@gmail.com<a/></li>     
+    <li><strong>Email:</strong> <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=andreajaneapacionado39@gmail.com&tf=1"> andreajaneapacionado39@gmail.com<a/></li>     
 </ul>
 <h2>Educational Background</h2>
 <ul>
@@ -26,4 +26,4 @@
   <li>Listening Musics</li>
 </ul>
 <h2>Motto</h2>
-<strong>No one is perfect, but always choose to be kind.</strong>
+<strong> Computers have lots of memory, but no imagination.</strong>
